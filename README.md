@@ -34,3 +34,7 @@ To build and run this project, you'll need:
     cmake ..
     make -j4
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
