@@ -34,7 +34,7 @@ To build and run this project, you'll need:
     cmake ..
     make -j4
 
-<<<<<<< HEAD
-=======
+## License
 
->>>>>>> origin/main
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
