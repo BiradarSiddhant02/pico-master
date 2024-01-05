@@ -33,8 +33,3 @@ To build and run this project, you'll need:
     export PICO_SDK_PATH=../../pico-sdk
     cmake ..
     make -j4
-
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
