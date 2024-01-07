@@ -24,7 +24,7 @@ To build and run this project, you'll need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pico-master.git
+   git clone https://github.com/BiradarSiddhant02/pico-master.git
    cd pico
 2. Build the binaries
     ```bash
